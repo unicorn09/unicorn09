@@ -1,11 +1,9 @@
 <img align="right" alt="GIF"  width="370px" src="https://miro.medium.com/max/1600/0*K2WLMTExLyida7OR.gif" />
 
-### HEY!! I M AYUSHI 
-   <a href="https://www.linkedin.com/in/ayushi-doshi-731210191/">
-  <img align="left" alt="Ayushi's LinkdeIN" width="22px" height="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+### Unicorn_HarshRaj
+   <a href="https://www.linkedin.com/in/harsh-raj-66a5b5184/">
+  
 </a>
-
- <a href="https://www.youtube.com/channel/UCWEdHn3qtkSaQifFeXQXb6Q?view_as=subscriber">
   <img align="left" alt="Ayushi's Youtube" width="27px" height="20px" src="https://img.favpng.com/18/7/22/scalable-vector-graphics-social-media-youtube-logo-png-favpng-X24i5zHCJkRER9Uik7KY0htRs.jpg" />
 </a>
 </br>
