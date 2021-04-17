@@ -40,7 +40,7 @@
 
 </details>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unicorn09&langs_count=8)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unicorn09&langs_count=8)
 
 
 [twitter]: https://twitter.com/unicorn_nitp
