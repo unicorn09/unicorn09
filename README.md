@@ -39,7 +39,7 @@
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=unicorn09&show_icons=true&theme=gotham" alt="Harsh Raj | Stats" />
 
 </details>
-[![Visitor Count](https://profile-counter.glitch.me/{unicorn09}/count.svg)]
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unicorn09&langs_count=8)]
 
 
