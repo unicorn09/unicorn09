@@ -30,7 +30,7 @@
 * Earned Gold badge & 5 star at HackerRank in almost all sections.
 * I build Applications both Native and Hybrid.
 * I am a Data Science Enthusiast .
-* I am a Database Designer and knows Databse Languages like SQL,Sparql..
+* I am a Database Designer and know Databse Languages like SQL,Sparql..
 ---
 
  <details>
