@@ -4,7 +4,7 @@
 [<img height="30" src="https://img.shields.io/badge/hackerrank-black.svg?&style=for-the-badge&logo=hackerrank&logoColor=green" />][Hackerrank]
 [<img height="30" src="https://img.shields.io/badge/GEEKSFORGEEKS-white.svg?&style=for-the-badge&logo=geeksforgeeks" />][GEEKSFORGEEKS]
 
-![alt text](https://github.com/unicorn09/unicorn09/blob/master/cover.png)
+![alt text](https://github.com/unicorn09/unicorn09/blob/master/cover2.png)
 
 
 ### My Tech Toolbox 🧰
